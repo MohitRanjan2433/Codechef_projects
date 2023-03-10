@@ -82,7 +82,6 @@ form button:hover {
 
 @media screen and (max-width: 1000px) {
     .logo{
-        width: fit-content;
-        object-fit: fill;
+        display: none;
     }    
 }
